@@ -16,16 +16,16 @@
 
 | # | ประเภทข้อสอบ | สิ่งที่ต้องเห็น | ✅ |
 |---|---|---|:---:|
-| 1 | **Multiple Choice** | มีข้อสอบ MC พร้อม Feedback ทุกตัวเลือก | `[/]` |
-| 2 | **True / False** | มีข้อสอบ T/F พร้อม Feedback ทั้ง True และ False | `[ ]` |
-| 3 | **Short Answer** | มีข้อสอบ SA พร้อม Answer Pattern มากกว่า 1 รูปแบบ | `[ ]` |
-| 4 | **Essay** | มีข้อสอบ Essay พร้อม Grader information | `[ ]` |
-| 5 | **Matching** | มีข้อสอบ Matching พร้อม Distractor อย่างน้อย 1 รายการ | `[ ]` |
-| 6 | **Numerical** | มีข้อสอบ Numerical พร้อมค่า Error margin | `[ ]` |
-| 7 | **Calculated** | มีข้อสอบ Calculated พร้อม Wild card dataset | `[ ]` |
-| 8 | **Drag and Drop onto Image** | มีข้อสอบ DDI พร้อม Drop zones ครบ | `[ ]` |
+| 1 | **Multiple Choice** | มีข้อสอบ MC พร้อม Feedback ทุกตัวเลือก | `[✓]` |
+| 2 | **True / False** | มีข้อสอบ T/F พร้อม Feedback ทั้ง True และ False | `[✓]` |
+| 3 | **Short Answer** | มีข้อสอบ SA พร้อม Answer Pattern มากกว่า 1 รูปแบบ | `[✓]` |
+| 4 | **Essay** | มีข้อสอบ Essay พร้อม Grader information | `[✓]` |
+| 5 | **Matching** | มีข้อสอบ Matching พร้อม Distractor อย่างน้อย 1 รายการ | `[✓]` |
+| 6 | **Numerical** | มีข้อสอบ Numerical พร้อมค่า Error margin | `[✓]` |
+| 7 | **Calculated** | มีข้อสอบ Calculated พร้อม Wild card dataset | `[✓]` |
+| 8 | **Drag and Drop onto Image** | มีข้อสอบ DDI พร้อม Drop zones ครบ | `[✓]` |
 
-**คะแนน 1.1:** \_\_\_ / 8
+**คะแนน 1.1:** 8 / 8
 
 ### 1.2 ข้อสอบขั้นสูง (นับคะแนนตามจำนวนประเภทที่ทำได้จริง สูงสุด 6 คะแนน)
 
